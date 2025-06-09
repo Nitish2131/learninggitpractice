@@ -1,0 +1,51 @@
+[33mcommit 142248eddb5255ed1a694fe773b504dbf523be20[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nitish2131 <nitish22kashyap21112@gmail.com>
+Date:   Mon Jun 9 16:05:04 2025 +0530
+
+    Create file9.txt
+    
+    new file 9
+
+[33mcommit 3d0592ad331db1c47bb9c6a22434dad4d65614ce[m
+Merge: 657cae5 429aa64
+Author: nitish <nitish12@gmail.com>
+Date:   Mon Jun 9 14:52:52 2025 +0530
+
+    merge conflict solved
+
+[33mcommit 429aa6430358c21eb9edc261a136587824d5bb5f[m[33m ([m[1;32mc2[m[33m)[m
+Author: nitish <nitish12@gmail.com>
+Date:   Mon Jun 9 14:45:35 2025 +0530
+
+    c2 changes
+
+[33mcommit 657cae5888e9408b57f8bccd297f3724637f96bb[m[33m ([m[1;32mc1[m[33m)[m
+Author: nitish <nitish12@gmail.com>
+Date:   Mon Jun 9 14:40:06 2025 +0530
+
+    C1 changes
+
+[33mcommit 6b9ea84e1eb04c345f79e301b495ce8107858853[m
+Merge: abd0247 0f6b8cc
+Author: nitish <nitish12@gmail.com>
+Date:   Mon Jun 9 14:36:08 2025 +0530
+
+    Merge branch 'branch1'
+
+[33mcommit 0f6b8ccc5734b5ce24edaa82c1581ac6e17b436c[m[33m ([m[1;32mbranch1[m[33m)[m
+Author: nitish <nitish12@gmail.com>
+Date:   Mon Jun 9 14:34:27 2025 +0530
+
+    file changed
+
+[33mcommit abd0247c2add986fdcfdc182e311cd0533cbd9c4[m[33m ([m[1;32mb3[m[33m, [m[1;32mb2[m[33m)[m
+Author: nitish <nitish12@gmail.com>
+Date:   Mon Jun 9 12:53:53 2025 +0530
+
+    second commit
+
+[33mcommit b39f10b4994c2a4455b9c5951d38ce2f2f917401[m[33m ([m[1;32mbranchFinal[m[33m)[m
+Author: nitish <nitish12@gmail.com>
+Date:   Mon Jun 9 12:51:21 2025 +0530
+
+    this is my first commit
